@@ -1,0 +1,36 @@
+name: Sort Ads List
+
+on:
+  push:
+    paths:
+      - "ads.txt"
+
+  workflow_dispatch:
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sort ads.txt
+        run: python sort_ads.py
+
+      - name: Commit sorted file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add ads.txt
+
+          git diff --cached --quiet || git commit -m "Sort ads.txt"
+
+          git push
