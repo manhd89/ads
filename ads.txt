@@ -1,14 +1,13 @@
-/advert.gif
-tsyndicate.com
-/static/players/*/vast.js
 -728x90-
 .com/bn.js
 /728x90.gif
+/advert.gif
 /btag.min.js
 /eclick/ea3.js
 /lv/esnk/
 /pagead/js/adsbygoogle.js
 /popunder1000.js
+/static/players/*/vast.js
 /v*/*/segment*.ts
 /vast.php?*&idzone=
 _banner-tinhte-
@@ -45,6 +44,7 @@ servg1.net
 static.amcdn.vn/tka/cdn.js
 tracking.dantri.com.vn/matomo.js
 truyenxxx.net/anh/
+tsyndicate.com
 userstat.net
 vads.net.vn
 webapi.dantri.com.vn/bn/list-pos
