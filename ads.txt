@@ -1,3 +1,11 @@
+gigglegrowlworrisome.com/bn.js
+ogads-pa.clients6.google.com
+cdn.adxcontent.com
+/vast.php?*&idzone=
+orbsrv.com/ad-provider.js
+/popunder1000.js
+-728x90-
+/728x90.gif
 .com/bn.js
 /btag.min.js
 /eclick/ea3.js
@@ -23,7 +31,6 @@ gukahdbam.com/bzobukt
 imasdk.googleapis.com
 js.aiservice.vn
 la2.vnecdn.net/static/adp_banner.js
-phimnhua.com/push/
 pubpowerplatform.io
 quangcao.
 sacwumsf.com
@@ -36,3 +43,6 @@ userstat.net
 vads.net.vn
 webapi.dantri.com.vn/bn/list-pos
 zcakahvte.in/ziconkb/bhookf
+/v*/*/segment*.ts
+phimnhua.*/push/*.gif
+https:\/\/[0-9a-z]{6,12}\.in\/.*
