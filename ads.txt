@@ -1,3 +1,6 @@
+tracking.dantri.com.vn/matomo.js
+webapi.dantri.com.vn/bn/list-pos
+dtadnetwork.com
 .com/bn.js
 /btag.min.js
 /eclick/ea3.js
