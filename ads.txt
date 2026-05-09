@@ -26,7 +26,6 @@ delivery/asyncjs.php
 doubleclick.net
 dtadnetwork.com
 eclick.vn
-gigglegrowlworrisome.com/bn.js
 google.com/adsense/search/async-ads.js
 googlesyndication.com/pagead/
 googletagservices.com/tag/js/gpt.js
