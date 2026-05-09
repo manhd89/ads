@@ -1,6 +1,3 @@
-tracking.dantri.com.vn/matomo.js
-webapi.dantri.com.vn/bn/list-pos
-dtadnetwork.com
 .com/bn.js
 /btag.min.js
 /eclick/ea3.js
@@ -33,6 +30,7 @@ sacwumsf.com
 scorecardresearch.com
 servg1.net
 static.amcdn.vn/tka/cdn.js
+tracking.dantri.com.vn/matomo.js
 truyenxxx.net/anh/
 userstat.net
 vads.net.vn
