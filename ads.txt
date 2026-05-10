@@ -1,5 +1,3 @@
-google.*/pagead/lvz?
-/pagead/1p-user-list/*
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -12,6 +10,7 @@ google.*/pagead/lvz?
 /btag.min.js
 /eclick/ea3.js
 /lv/esnk/
+/pagead/1p-user-list/*
 /pagead/js/adsbygoogle.js
 /popunder1000.js
 /popup/*.js
@@ -40,6 +39,7 @@ doubleclick.net
 dtadnetwork.com
 eclick.vn
 fundingchoicesmessages.google.com
+google.*/pagead/lvz?
 google.com/adsense/search/async-ads.js
 googlesyndication.com/pagead/
 googletagservices.com/tag/js/gpt.js
