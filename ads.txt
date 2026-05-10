@@ -1,5 +1,3 @@
-fundingchoicesmessages.google.com
-ssm.codes
 -728x90-
 .com/bn.js
 /728x90.gif
@@ -29,6 +27,7 @@ delivery/asyncjs.php
 doubleclick.net
 dtadnetwork.com
 eclick.vn
+fundingchoicesmessages.google.com
 google.com/adsense/search/async-ads.js
 googlesyndication.com/pagead/
 googletagservices.com/tag/js/gpt.js
@@ -45,6 +44,7 @@ quangcao.
 sacwumsf.com
 scorecardresearch.com
 servg1.net
+ssm.codes
 static.amcdn.vn/tka/cdn.js
 tracking.dantri.com.vn/matomo.js
 truyenxxx.net/anh/
