@@ -1,7 +1,7 @@
-.com/on.js
 -728x90-
 .com/banners-web/
 .com/bn.js
+.com/on.js
 /728x90.gif
 /ad-provider.js
 /advert.gif
