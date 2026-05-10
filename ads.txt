@@ -24,7 +24,7 @@ admicro.vn
 ads/scripts/
 adtima-static.zascdn.me
 adtimaserver.vn
-amcdn.vn
+amcdn.vn/core/
 cdn.adxcontent.com
 connect.facebook.net/en_US/fbevents.js
 cpt.geniee.jp
