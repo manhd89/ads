@@ -1,3 +1,4 @@
+/static/js/ads-
 -728x90-
 .com/bn.js
 /728x90.gif
