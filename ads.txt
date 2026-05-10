@@ -1,6 +1,3 @@
-/prebid.js
-js.aiservice.vn
-jsc.mgid.com
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -15,6 +12,7 @@ jsc.mgid.com
 /pagead/js/adsbygoogle.js
 /popunder1000.js
 /popup/*.js
+/prebid.js
 /static/js/ads-
 /static/players/*/vast.js
 /v*/*/segment*.ts
@@ -46,6 +44,7 @@ https?:\/\/(?:[a-z]{2}\.)?[0-9a-z]{5,16}\.[a-z]{3,7}\/[a-z](?=[a-z]{0,25}[0-9A-Z
 https?:\/\/[0-9a-z]{13,14}\.cloudfront\.net\/\?[a-z]{3,5}=\d{6,7}
 imasdk.googleapis.com
 js.aiservice.vn
+jsc.mgid.com
 la2.vnecdn.net/static/adp_banner.js
 ogads-pa.clients6.google.com
 orbsrv.com/ad-provider.js
