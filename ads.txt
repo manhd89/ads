@@ -1,4 +1,3 @@
-/prebid*_vn_*.js
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -13,6 +12,7 @@
 /pagead/js/adsbygoogle.js
 /popunder1000.js
 /popup/*.js
+/prebid*_vn_*.js
 /prebid.js
 /static/js/ads-
 /static/players/*/vast.js
