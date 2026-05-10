@@ -1,4 +1,3 @@
-/static/js/ads-
 -728x90-
 .com/bn.js
 /728x90.gif
@@ -10,6 +9,7 @@
 /lv/esnk/
 /pagead/js/adsbygoogle.js
 /popunder1000.js
+/static/js/ads-
 /static/players/*/vast.js
 /v*/*/segment*.ts
 /vast.php?*&idzone=
