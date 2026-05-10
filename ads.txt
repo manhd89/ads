@@ -1,5 +1,3 @@
-server.zmedia.vn/static/
-aj1559.online
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -27,6 +25,7 @@ admicro.vn
 ads/scripts/
 adtima-static.zascdn.me
 adtimaserver.vn
+aj1559.online
 amcdn.vn/core/
 cdn.adxcontent.com
 connect.facebook.net/en_US/fbevents.js
@@ -55,6 +54,7 @@ pubpowerplatform.io
 quangcao.
 sacwumsf.com
 scorecardresearch.com
+server.zmedia.vn/static/
 servg1.net
 ssm.codes
 static.amcdn.vn/tka/cdn.js
