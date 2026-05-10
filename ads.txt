@@ -1,7 +1,6 @@
 -728x90-
 .com/bn.js
 /728x90.gif
-\.[a-z]{2,6}\/[0-9A-Za-z]{5,8}\.js
 /ad-provider.js
 /advert.gif
 /asyncjs.php
@@ -15,6 +14,7 @@
 /v*/*/segment*.ts
 /vast.php?*&idzone=
 2020mustang.com
+\.[a-z]{2,6}\/[0-9A-Za-z]{5,8}\.js
 ^https?:\/\/[a-z-]{6,}\.(?:com?|pro|info|xyz)\/[a-d][-\.\/_A-Za-z][DHWXm][-\.\/_A-Za-z][59FVZ][-\.\/_A-Za-z][6swyz][-\.\/_A-Za-z][-\/_0-9a-zA-Z][-\.\/_A-Za-z][-\/_0-9a-zA-Z]{22,162}
 _banner-tinhte-
 admicro.vn
