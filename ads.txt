@@ -1,10 +1,9 @@
-/asyncjs.php
-googlesyndication.com/pagead/
 -728x90-
 .com/bn.js
 /728x90.gif
 /ad-provider.js
 /advert.gif
+/asyncjs.php
 /btag.min.js
 /eclick/ea3.js
 /lv/esnk/
