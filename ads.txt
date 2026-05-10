@@ -1,7 +1,7 @@
-/^https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}
 -728x90-
 .com/bn.js
 /728x90.gif
+/^https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}
 /ad-provider.js
 /advert.gif
 /asyncjs.php
