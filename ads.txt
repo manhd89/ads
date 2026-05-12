@@ -1,4 +1,3 @@
-/api/*/popup
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -8,6 +7,7 @@
 /adserve/
 /adserver.
 /advert.gif
+/api/*/popup
 /api/ads/
 /asyncjs.php
 /btag.min.js
