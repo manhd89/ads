@@ -7,7 +7,6 @@
 /adserve/
 /adserver.
 /advert.gif
-/api/*/popup
 /api/ads/
 /asyncjs.php
 /btag.min.js
