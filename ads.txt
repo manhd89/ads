@@ -1,3 +1,6 @@
+/jwplayer/vast.js
+/api/ads/
+lh3.googleusercontent.com/*=s0
 -728x90-
 .com/banners-web/
 .com/bn.js
