@@ -1,6 +1,3 @@
-/jwplayer/vast.js
-/api/ads/
-lh3.googleusercontent.com/*=s0
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -10,9 +7,11 @@ lh3.googleusercontent.com/*=s0
 /adserve/
 /adserver.
 /advert.gif
+/api/ads/
 /asyncjs.php
 /btag.min.js
 /eclick/ea3.js
+/jwplayer/vast.js
 /lv/esnk/
 /pagead/1p-user-list/*
 /pagead/js/adsbygoogle.js
@@ -56,6 +55,7 @@ imasdk.googleapis.com
 js.aiservice.vn
 jsc.mgid.com
 la2.vnecdn.net/static/adp_banner.js
+lh3.googleusercontent.com/*=s0
 ogads-pa.clients6.google.com
 orbsrv.com/ad-provider.js
 phimnhua.*/push/*.gif
