@@ -13,7 +13,6 @@
 /asyncjs.php
 /btag.min.js
 /eclick/ea*.js
-/eclick/ea3.js
 /jwplayer/vast.js
 /lv/esnk/
 /pagead/1p-user-list/*
