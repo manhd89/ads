@@ -38,7 +38,6 @@ adtimaserver.vn
 aj1559.online
 amcdn.vn/core/
 analytics.google.com/g/
-bongdaplus.vn/js/premium.js
 cdn.adxcontent.com
 connect.facebook.net/en_US/fbevents.js
 cpt.geniee.jp
