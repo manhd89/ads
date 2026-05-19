@@ -1,3 +1,6 @@
+i.vrace.com.vn/
+logperf.vnexpress.net/perf
+i*-kinhdoanh.vnecdn.net/
 -728x90-
 .com/banners-web/
 .com/bn.js
