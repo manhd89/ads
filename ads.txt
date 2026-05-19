@@ -76,7 +76,7 @@ ogads-pa.clients6.google.com
 orbsrv.com/ad-provider.js
 phimnhua.*/push/*.gif
 pubpowerplatform.io
-quangcao.
+/quangcao.
 sacwumsf.com
 scorecardresearch.com
 server.zmedia.vn/static/
