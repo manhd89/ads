@@ -1,3 +1,7 @@
+bongdaplus.vn/js/premium.js
+/adscripts/mob/home.js
+analytics.google.com/g/
+googletagmanager.com/
 -728x90-
 .com/banners-web/
 .com/bn.js
