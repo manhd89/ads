@@ -1,5 +1,3 @@
-cdn.24h.com.vn/js/*/ads_inpage
-cdn.24h.com.vn/upload/creativeGa4Tracking_html5.js
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -40,6 +38,8 @@ adtimaserver.vn
 aj1559.online
 amcdn.vn/core/
 analytics.google.com/g/
+cdn.24h.com.vn/js/*/ads_inpage
+cdn.24h.com.vn/upload/creativeGa4Tracking_html5.js
 cdn.adxcontent.com
 connect.facebook.net/en_US/fbevents.js
 cpt.geniee.jp
