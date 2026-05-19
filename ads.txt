@@ -1,3 +1,4 @@
+cdn.24h.com.vn/*/html5_banner_thuong_
 -728x90-
 .com/banners-web/
 .com/bn.js
