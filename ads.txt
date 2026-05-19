@@ -7,6 +7,8 @@
 /adserve/
 /adserver.
 /advert.gif
+/anh/anhqcfull/
+/anh/popup*.js
 /api/ads/
 /asyncjs.php
 /btag.min.js
@@ -68,8 +70,6 @@ servg1.net
 ssm.codes
 static.amcdn.vn/tka/cdn.js
 tracking.dantri.com.vn/matomo.js
-/anh/popup*.js
-/anh/anhqcfull/
 tsyndicate.com
 userstat.net
 vads.net.vn
