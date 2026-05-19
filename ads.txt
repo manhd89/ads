@@ -1,13 +1,10 @@
-bongdaplus.vn/js/premium.js
-/adscripts/mob/home.js
-analytics.google.com/g/
-googletagmanager.com/
 -728x90-
 .com/banners-web/
 .com/bn.js
 .com/on.js
 /728x90.gif
 /ad-provider.js
+/adscripts/mob/home.js
 /adserve/
 /adserver.
 /advert.gif
@@ -40,6 +37,8 @@ adtima-static.zascdn.me
 adtimaserver.vn
 aj1559.online
 amcdn.vn/core/
+analytics.google.com/g/
+bongdaplus.vn/js/premium.js
 cdn.adxcontent.com
 connect.facebook.net/en_US/fbevents.js
 cpt.geniee.jp
@@ -53,6 +52,7 @@ google.*/pagead/lvz?
 google.com.vn/ads/
 google.com/adsense/search/async-ads.js
 googlesyndication.com/pagead/
+googletagmanager.com/
 googletagservices.com/tag/js/gpt.js
 gukahdbam.com/bzobukt
 https:\/\/[0-9a-z]{6,12}\.in(?:\/[a-z]{2,10}){1,3}
