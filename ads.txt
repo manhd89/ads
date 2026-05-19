@@ -1,4 +1,3 @@
-/anh/catfish.js
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -10,6 +9,7 @@
 /adserver.
 /advert.gif
 /anh/anhqcfull/
+/anh/catfish.js
 /anh/popup*.js
 /api/ads/
 /asyncjs.php
