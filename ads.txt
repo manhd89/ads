@@ -1,4 +1,3 @@
-cdn.24h.com.vn/*/html5_banner_thuong_
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -39,6 +38,7 @@ adtimaserver.vn
 aj1559.online
 amcdn.vn/core/
 analytics.google.com/g/
+cdn.24h.com.vn/*/html5_banner_thuong_
 cdn.24h.com.vn/js/*/ads_inpage
 cdn.24h.com.vn/upload/creativeGa4Tracking_html5.js
 cdn.adxcontent.com
