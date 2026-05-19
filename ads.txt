@@ -68,7 +68,8 @@ servg1.net
 ssm.codes
 static.amcdn.vn/tka/cdn.js
 tracking.dantri.com.vn/matomo.js
-truyenxxx.net/anh/
+/anh/popup*.js
+/anh/anhqcfull/
 tsyndicate.com
 userstat.net
 vads.net.vn
