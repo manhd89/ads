@@ -1,4 +1,3 @@
-criteo.net
 -728x90-
 .com/banners-web/
 .com/bn.js
@@ -47,6 +46,7 @@ cdn.adxcontent.com
 collector.github.com
 connect.facebook.net/en_US/fbevents.js
 cpt.geniee.jp
+criteo.net
 crsspxl.com
 doubleclick.net
 dtadnetwork.com
