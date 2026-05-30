@@ -4,7 +4,7 @@
 .com/on.js
 /728x90.gif
 /ad-provider.js
-/adscripts/mob/home.js
+/adscripts/mob/*.js
 /adserve/
 /adserver.
 /advert.gif
